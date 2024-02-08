@@ -1,0 +1,9 @@
+
+
+# git submodule add git@github.com:vagnereix/{REPO_NAME}.git {REPO_LOCAL_PATH}
+[submodule "01-im-here"]
+	path = 01-im-here
+	url = git@github.com:vagnereix/im-here.git
+[submodule "02-ignite-teams"]
+	path = 02-ignite-teams
+	url = git@github.com:vagnereix/ignite-teams.git
